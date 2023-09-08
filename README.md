@@ -4,4 +4,4 @@ link for festival site
 
 
 https://aisuluongarovna.github.io/festival.html 
-link for earth wikipedia
+link for earth wikipedia site
