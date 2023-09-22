@@ -1,0 +1,42 @@
+p {
+    color: orange;
+  }
+  * {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('https://i.pinimg.com/564x/40/f8/22/40f822332a6055076224da490d4b9044.jpg');
+    }
+  . green {
+    color:beige(167, 74, 74);
+    }
+    . bold {
+        color:beige
+    }
+[href]{
+    color:rgb(91, 145, 91)
+    }
+img [src*='earth'] {
+    height: 15px;
+    }
+p:hover {
+    background-color: rgb(80, 149, 80);
+        }
+h1  {
+    color:rgb(20, 62, 20)
+    }
+.headline {
+    color:rgb(20, 62, 20)
+
+     }
+.overlay {
+    opacity: 0.5;
+     }
+     h2  {
+        color:rgb(20, 62, 20)
+        }
+    .headline {
+        color:rgb(20, 62, 20)
+
+
+        font-size: 18px;
+    font-weight: bold;
