@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 p {
     color: orange;
   }
@@ -40,3 +41,27 @@ h1  {
 
         font-size: 18px;
     font-weight: bold;
+=======
+a {
+    color: #466995;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: orange;
+  }
+  
+  a:visited {
+    color: #466995;
+  }
+  
+  .question-link:visited {
+    color: #ffffff;
+  }
+  
+  a:active, .question-link:active {
+    color: #DBE9EE;
+  }
+>>>>>>> 1acbb59f5e0c17787175d11632f4fbdfb715de8f
