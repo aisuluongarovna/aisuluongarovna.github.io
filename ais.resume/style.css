@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(114, 188, 252);
+}
+nav {
+    display: table-cell ;
+    color: rgb(155, 61, 61);
+    text-align:initia;
+    padding: 70px 70px;
+    text-decoration:line-through
+}
+
+    
