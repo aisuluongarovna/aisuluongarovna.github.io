@@ -7,10 +7,10 @@
   
   
   header {
-    background-color: #ffbc40;
+    background-color: #7ada88;
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
   }
   
   
@@ -60,9 +60,15 @@
 }
 
 .grid-item {
-    background-color: #ffbc40;
+    background-color: #7ada88;
     color: #fff;
     text-align: center;
-    padding: 20px;
-    font-size: 24px;
+    padding:60px;
+    margin: 3%;
+    font-size: 30px;
+    width: 95%;
+    height: 25%;
 }
+
+
+
